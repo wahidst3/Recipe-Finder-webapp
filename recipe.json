@@ -1,0 +1,33 @@
+ 
+{
+  "recipes": [
+    {
+      "title": "Spaghetti Carbonara",
+      "image": "https://example.com/spaghetti_carbonara.jpg",
+      "cooking_time": 30,
+      "recipe_url": "https://example.com/spaghetti_carbonara_recipe",
+      "calories": 450
+    },
+    {
+      "title": "Chicken Stir-Fry",
+      "image": "https://example.com/chicken_stir_fry.jpg",
+      "cooking_time": 25,
+      "recipe_url": "https://example.com/chicken_stir_fry_recipe",
+      "calories": 380
+    },
+    {
+      "title": "Vegetable Soup",
+      "image": "https://example.com/vegetable_soup.jpg",
+      "cooking_time": 40,
+      "recipe_url": "https://example.com/vegetable_soup_recipe",
+      "calories": 200
+    },
+    {
+      "title": "Grilled Salmon",
+      "image": "https://example.com/grilled_salmon.jpg",
+      "cooking_time": 20,
+      "recipe_url": "https://example.com/grilled_salmon_recipe",
+      "calories": 350
+    }
+  ]
+}
